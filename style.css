@@ -1,0 +1,30 @@
+body{
+    background: linear-gradient(to right, red,blue);
+}
+
+.interface{
+    text-align: center;
+}
+.result{
+    display: flex;
+    align-items:flex-end;
+    margin: 0px 50px;
+    text-align: center;
+    justify-content: center;
+}
+img{
+    width: 320px;
+}
+p{
+    font-size:  2.5rem;
+    
+}
+.players{
+    display: flex;
+    justify-content: space-evenly
+}
+.images{
+    display: flex;
+    justify-content: space-evenly
+}
+
